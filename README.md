@@ -19,16 +19,8 @@
 
 ``chmod 777 setup.sh``
 
-``./setup.sh``
+``bash setup.sh``
 ``python3 Termux-Egitim.py``
-
-
-#### Yada Direkt Aşağıdaki Komutu Yapıştırabilirsiniz
-
-
-apt update && apt upgrade -y && apt install git -y && apt install python -y && git clone https://github.com/coderbycanpolat/Termux-Egitim && cd Termux-Egitim && chmod 777 setup.sh && bash setup.sh 
-
-``python3 Termux-Eğitim.py``
 
 
 
