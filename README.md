@@ -33,6 +33,6 @@
 
 
 ##### İletişim
->>> [İNSTAGRAM ](https://Instagram.com/canpolatgkky/) <<<
+>> [İNSTAGRAM ](https://Instagram.com/canpolatgkky/)
 
->>> [TELEGRAM](https://t.me/androedit) <<<
+>> [TELEGRAM](https://t.me/androedit)
