@@ -26,7 +26,7 @@
 #### Yada Direkt Aşağıdaki Komutu Yapıştırabilirsiniz
 
 
-apt update && apt upgrade -y && apt install git -y && apt install python python2 -y && git clone https://github.com/coderbycanpolat/Termux-Egitim.git && cd Termux-Egitim && chmod 777 setup.sh && ./setup.sh 
+apt update && apt upgrade -y && apt install git -y && apt install python -y && git clone https://github.com/coderbycanpolat/Termux-Egitim.git && cd Termux-Egitim && chmod 777 setup.sh && bash setup.sh 
 
 ``python3 Termux-Eğitim.py``
 
