@@ -13,7 +13,7 @@
 
 ``pkg install bash``
 
-``git clone https://github.com/coderbycanpolat/Termux-Egitim.git``
+``git clone https://github.com/coderbycanpolat/Termux-Egitim``
 
 ``cd Termux-Egitim``
 
