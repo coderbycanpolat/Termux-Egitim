@@ -26,7 +26,8 @@
 ## NOT : Yazıların Bazıları Bana Ait Değildir
 
 
-##### İletişim
->> [İNSTAGRAM ](https://Instagram.com/canpolatgkky/)
+##### Aşağıdan Bana Ulaşın
 
->> [TELEGRAM](https://t.me/androedit)
+[İNSTAGRAM ](https://Instagram.com/canpolatgkky/)
+
+[TELEGRAM](https://t.me/androedit)
