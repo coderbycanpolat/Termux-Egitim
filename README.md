@@ -23,6 +23,8 @@
 ``python3 Termux-Egitim.py``
 
 
+## NOT : Yazıların Bazıları Bana Ait Değildir
+
 
 ##### İletişim
 >> [İNSTAGRAM ](https://Instagram.com/canpolatgkky/)
